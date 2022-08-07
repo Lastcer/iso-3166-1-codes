@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "ms-vscode.cpptools",
+        "ms-dotnettools.csharp",
+        "ms-python.python",
+        "luis-domenech.vscode-git-push-progress",
+        "mechatroner.rainbow-csv",
+        "zainchen.json",
+        "hyb1996.auto-js-pro-ext"
+    ]
+}
